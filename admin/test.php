@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+ <H1>Find Customer's Albums Page</H1>
+ From a dropdown list of customers, a user should be able to pick a customer and see a list of albums (all fields in the CD table) purchased by that customer.
+ <HR>
+ <FORM ACTION="listCustomer.php" METHOD="POST"/>
+ Customer:
+ <select name="mydropdownCust">
+ <option value="101">101</option>
+ <option value="102">102</option>
+ <option value="103">103</option>
+ <option value="104">104</option>
+ <option value="105">105</option>
+ <option value="106">106</option>
+ <option value="107">107</option>
+ <option value="108">108</option>
+ <option value="109">109</option>
+ <option value="110">110</option>
+ </select>
+ <BR />
+ <?php
+  // BEGIN ADDED CONNECTION HACKY GARBAGE
+  $mysqli = new mysqli( 'localhost', 'root', 'root', 'eschoppe' );
+  //$con=mysql_connect("localhost","root","root");
+  // Check connection
+  //if (mysqli_connect_errno($mysqli)) {
+    //echo "Failed to connect to MySQL: " . mysqli_connect_error();
+  //}
+ /// $selected = mysql_select_db("eschoppe",$mysqli) 
+    //or die("Could not select examples");
+  // END ADDED CONNECTION HACKY GARBAGE
+
+  $query = "SELECT distinct type from category_db";
+  $result = mysqli_query($mysqli, $query);
+  echo "<select name='dropdown' value=''><option>Dropdown</option>";
+  while($r = mysql_fetch_array($result)) {
+	  
+	   
+    echo "<option value=".$r['type'].">".$r['type']."</option>"; 
+  }
+  echo "</select>";
+ ?>
+
+ <BR />
+ <INPUT TYPE="SUBMIT" Value="Submit"/>
+ </FORM>
+
+<FORM ACTION="listMenu.html" METHOD="POST"/>
+<INPUT TYPE="SUBMIT" Value="Main Menu"/>
+</FORM>
+</BODY>
+</HTML>

@@ -1,0 +1,86 @@
+[24-Apr-2016 18:48:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[24-Apr-2016 19:04:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[24-Apr-2016 19:09:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[24-Apr-2016 19:12:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[24-Apr-2016 19:12:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[24-Apr-2016 19:12:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[24-Apr-2016 21:57:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[24-Apr-2016 21:57:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[24-Apr-2016 21:58:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[24-Apr-2016 22:01:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 16:57:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 16:58:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 16:58:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 77
+[25-Apr-2016 16:58:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 16:58:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 16:58:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 77
+[25-Apr-2016 16:58:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 16:58:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 16:58:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 77
+[25-Apr-2016 16:58:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 16:58:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 16:58:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 77
+[25-Apr-2016 16:58:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 16:59:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 16:59:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 16:59:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 77
+[25-Apr-2016 16:59:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 16:59:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 16:59:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 77
+[25-Apr-2016 16:59:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 16:59:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 16:59:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 77
+[25-Apr-2016 16:59:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 17:00:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 17:00:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 77
+[25-Apr-2016 17:00:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 17:00:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 17:00:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 77
+[25-Apr-2016 17:00:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 17:58:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 17:59:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 17:59:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 77
+[25-Apr-2016 17:59:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 18:02:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 18:02:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 18:02:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 81
+[25-Apr-2016 18:02:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 82
+[25-Apr-2016 18:02:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 18:02:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 18:02:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 81
+[25-Apr-2016 18:02:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 82
+[25-Apr-2016 18:03:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 18:03:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 18:03:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 81
+[25-Apr-2016 18:03:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 82
+[25-Apr-2016 18:04:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 18:04:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 18:04:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 81
+[25-Apr-2016 18:04:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 82
+[25-Apr-2016 18:05:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 18:05:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ecomteam_team'@'localhost' (using password: YES) in /home/ecom/public_html/admin_area/includes/db.php on line 4
+[25-Apr-2016 18:05:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ecom/public_html/admin_area/login.php on line 79
+[25-Apr-2016 18:05:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 81
+[25-Apr-2016 18:05:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ecom/public_html/admin_area/login.php on line 82
+[25-Apr-2016 18:06:24 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[25-Apr-2016 18:06:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[25-Apr-2016 21:01:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[25-Apr-2016 21:15:52 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[25-Apr-2016 21:15:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[25-Apr-2016 21:18:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[25-Apr-2016 22:24:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[26-Apr-2016 08:19:59 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[26-Apr-2016 08:19:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[26-Apr-2016 08:20:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[26-Apr-2016 15:26:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[26-Apr-2016 16:14:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[26-Apr-2016 17:00:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[26-Apr-2016 17:10:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 105
+[26-Apr-2016 17:10:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 105
+[26-Apr-2016 17:10:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 105
+[26-Apr-2016 17:31:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[26-Apr-2016 17:45:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[26-Apr-2016 18:00:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[26-Apr-2016 18:13:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86
+[26-Apr-2016 18:26:25 UTC] PHP Parse error:  syntax error, unexpected ''SELECT customer_emai' (T_ENCAPSED_AND_WHITESPACE) in /home/ecom/public_html/admin_area/edit_pro.php on line 212
+[26-Apr-2016 19:07:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecom/public_html/admin_area/login.php:31) in /home/ecom/public_html/admin_area/login.php on line 86

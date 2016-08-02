@@ -1,0 +1,169 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body{background: lightgoldenrodyellow;}
+
+
+.main_wrapper{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    background-color: darkslategray;
+}
+.header_wrapper{
+    width: 100px;
+    height:150px;
+    margin:auto;
+
+
+}
+
+
+#logo{
+    float:right;
+}
+#banner{
+    float: right;
+}
+.menubar{
+    width: 1000px;
+    height:50px;
+    background:gray;
+    color: white;
+}
+.content_wrapper{
+    width: 1000px;
+
+    margin:auto;
+    background: white;
+}
+#content_area{
+    width: 800px;
+
+    float: right;
+    background: white;
+}
+#sidebar_title{
+background-color: honeydew;
+    font-weight: bolder;
+    padding: 10px;
+    font-family: Seravek;
+
+}
+#sidebar{
+    width:200px;
+
+    background: black;
+    float: left;
+}
+
+#cats{
+    margin-top: 8px;
+    padding: 0;
+    list-style: none;
+    display: block;
+    text-align: center;
+}
+#cats li{
+    margin: 8px;
+}
+#cats a{
+    color:white;
+    padding: 8px;
+    margin: 5px;
+
+    text-decoration: none;
+    font-size: large;
+    font-family: Seravek;
+
+}
+#cats a:hover{
+        color: darkgoldenrod;
+    font-weight: bold;
+}
+#footer{
+    width: 1000px;
+    height:100px;
+    background:gray;
+    clear: both;
+}
+
+#menu{
+    padding: 0;
+    margin: 0;
+    line-height: 45px;
+    float: left;
+}
+#menu li{
+    list-style: none;
+    display:inline;
+}
+#menu a{
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    margin: 5px;
+    font-size: 20px;
+    font-family: Seravek;
+}
+
+#menu a:hover{
+    color: maroon;
+    font-weight: bolder;
+}
+#form{
+    float: right;
+    padding-right: 8px;
+    line-height: 40px;
+}
+
+#products_box{
+
+    width: 780px;
+    text-align: center;
+    margin-left:30px ;
+    font-family: Seravek;
+}
+
+#single_product{
+
+        float: left;
+    margin-left: 30px;
+    padding: 10px;
+    font-family: Seravek;
+}
+#single_product img{
+    border: 2px solid black;
+}
+
+#shopping_cart{
+    width: 800px;
+    height: 50px;
+    background: cornflowerblue;
+}
